@@ -1,0 +1,6 @@
+{
+    "git.alwaysSignOff": false,
+    "git.allowForcePush": false,
+    "git.allowNoVerifyCommit": false,
+    "git.alwaysShowStagedChangesResourceGroup": false
+}
